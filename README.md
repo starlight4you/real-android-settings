@@ -2,6 +2,8 @@
 
 一个用于打开 Android 系统原生设置界面的轻量级工具应用。
 
+快速下载：https://github.com/starlight4you/real-android-settings/releases/download/release/app-debug.apk
+
 ## 用途
 
 搭载 Android 系统的墨水屏阅读器通常会通过内置启动器将真实的系统设置隐藏起来，导致用户无法直接访问应用管理、开发者选项等系统功能。
